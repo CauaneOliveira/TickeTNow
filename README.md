@@ -1,2 +1,2 @@
-# NLW-Connect
-Evento NLW Connect de criar um sistema em java+spring boot
+# TickeTNow
+Evento NLW Connect de criar um sistema de ingresso em eventoos em java+spring boot
